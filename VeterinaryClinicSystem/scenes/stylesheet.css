@@ -1,0 +1,213 @@
+#mainPane {
+    -fx-background-color: #fcf1d0;
+}
+
+#secondPane {
+    -fx-background-image: url('../images/pattern.png');
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+    -fx-background-repeat: repeat;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+}
+
+#label {
+    -fx-background-color: #f28f33;
+    -fx-background-radius: 20 20 0 0;
+}
+
+#label2 {
+    -fx-background-color: #c55a1c;
+    -fx-background-radius: 20 20 0 0;
+}
+
+#label3 {
+    -fx-background-color: #c55a1c;
+    -fx-background-radius: 20 20 0 0;
+}
+
+.root {
+    -fx-font-size: 14px;
+}
+
+/* */
+
+.text-field {
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-text-fill: #333333;
+}
+
+.text-field:focused {
+    -fx-effect: dropshadow(gaussian, rgba(242, 143, 51, 0.8), 10, 0, 0, 0);
+}
+
+/* */
+
+.list-view {
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+}
+
+.list-view:focused {
+    -fx-effect: dropshadow(gaussian, rgba(242, 143, 51, 0.8), 10, 0, 0, 0);
+}
+
+.list-view .list-cell {
+    -fx-background-radius: 10;
+    -fx-padding: 5;
+    -fx-background-color: white;
+    -fx-text-fill: #333333;
+}
+
+.list-view .list-cell:hover {
+    -fx-background-radius: 10;
+    -fx-background-color: #f28f33;
+    -fx-text-fill: white;
+}
+
+.list-view .list-cell:selected {
+    -fx-background-radius: 10;
+    -fx-background-color: #e07b29;
+    -fx-text-fill: white;
+}
+
+/* */
+
+.choice-box {
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-text-fill: #333333;
+}
+
+.choice-box .choice-box-popup {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-color: #f28f33;
+    -fx-border-radius: 10;
+    -fx-border-width: 2;
+}
+
+.choice-box .list-cell {
+    -fx-background-color: white;
+    -fx-text-fill: #333333;
+    -fx-padding: 10;
+}
+
+.choice-box .context-menu {
+    -fx-background-radius: 10;
+}
+
+.choice-box .context-menu .menu-item {
+    -fx-background-radius: 10;
+    -fx-text-fill: black;
+}
+
+.choice-box .menu-item:hover {
+    -fx-background-color: #f28f33;
+    -fx-text-fill: black;
+}
+
+.choice-box .menu-item:focused {
+    -fx-background-color: #f28f33;
+    -fx-text-fill: black;
+}
+
+/* */
+
+.date-picker {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-text-fill: #333333;
+}
+
+.date-picker:focused {
+    -fx-background-color: #fff8f0;
+}
+
+.date-picker-popup .calendar-pane {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-color: #f28f33;
+    -fx-border-radius: 10;
+    -fx-border-width: 2;
+}
+
+.date-picker-popup .month-year-pane,
+.date-picker-popup .day-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #333333;
+}
+
+.date-picker-popup .month-year-label {
+    -fx-text-fill: #f28f33;
+    -fx-font-weight: bold;
+}
+
+.date-picker-popup .today {
+    -fx-background-color: #f28f33;
+    -fx-text-fill: white;
+}
+
+.date-picker-popup .day-cell:hover {
+    -fx-background-color: #f28f33;
+    -fx-text-fill: white;
+}
+
+.date-picker-popup .day-cell:selected {
+    -fx-background-color: #f28f33;
+    -fx-text-fill: white;
+}
+
+.date-picker .arrow-button .arrow {
+    -fx-background-color: #f28f33;
+    -fx-padding: 5;
+    -fx-background-radius: 10;
+}
+
+.date-picker .arrow-button .arrow:hover {
+    -fx-background-color: #e07b29;
+}
+
+/* */
+
+.button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.check-box {
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 10, 0.5, 0, 0);
+    -fx-background-color: white;
+}
+
+.check-box .box {
+    -fx-background-color: transparent;
+    -fx-padding: 5px;
+}
+
+.check-box .box:hover {
+    -fx-effect: dropshadow(gaussian, rgba(242, 143, 51, 0.8), 10, 0, 0, 0);
+}
+
+.check-box .box:selected {
+    -fx-background-color: #f28f33;
+}
+
+.check-box .box:selected .mark {
+    -fx-background-color: white;
+}
+
+.check-box .box .mark {
+    -fx-shape: "M 0 0 L 1 0.5 L 0 1 L -1 0.5 Z";
+    -fx-background-color: transparent;
+    -fx-scale-x: 0.6;
+    -fx-scale-y: 0.6;
+}
+
+.check-box:selected .box {
+    -fx-background-color: #f28f33;
+    -fx-border-color: #f28f33;
+}
