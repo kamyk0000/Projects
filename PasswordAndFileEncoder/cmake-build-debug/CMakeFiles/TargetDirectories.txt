@@ -1,0 +1,3 @@
+F:/Programowanie/CLionProjects/2223Z_win_PJC_s24651/cmake-build-debug/CMakeFiles/Project2.dir
+F:/Programowanie/CLionProjects/2223Z_win_PJC_s24651/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Programowanie/CLionProjects/2223Z_win_PJC_s24651/cmake-build-debug/CMakeFiles/rebuild_cache.dir
