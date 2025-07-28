@@ -1,0 +1,6 @@
+Castillo	Elf	Czarodziej	3	12	25	1	14	2	8	13	12	16	14	11	13	5	2022-07-02 08:18:43	2022-07-02 08:18:43	Laska (1d6/1d8) 	Różdżka	30 sz	Odporność na uśpienie	0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,
+Porter	Człowiek	Wojownik	8	20	20	1	13	3	16	15	12	8	10	14	0	0	2022-07-02 08:31:11	2024-04-02 12:57:34	Miecz dwuręczny (2d6 cięte)	Oszczepy x20 (1d6)		Action surge - dodatkowa akcja w turze / długi odpoczynek	0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,
+Warren	Człowiek	Barbarzyńca	2	16	20	1	10	2	18	14	13	8	10	12	0	0	2022-07-02 08:53:13	2024-04-02 12:58:00	Topór bojowy (1d8/1d10)	 	 	 	1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,
+O'Quinn	Elf	Tropiciel	1	12	25	3	14	2	10	13	16	12	14	8	2	1	2022-07-02 08:56:04	2022-07-02 08:56:04	Długi łuk (1d8)	Strzały x50	 	 	1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+Test	Krasnolud	Kapłan	1	14	12	1	13	2	14	13	8	12	16	10	1	2	2022-07-02 08:59:42	2022-07-02 08:59:42	Buława (1d6)	 	 	Leczenie ran	0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,
+Test2	Człowiek	Bard	1	12	20	1	10	2	8	14	12	13	10	16	1	2	2022-07-02 09:03:29	2022-07-02 09:03:29	Sztylet (1d4)	Lutnia	 	 	0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,
