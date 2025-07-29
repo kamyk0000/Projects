@@ -3,3 +3,5 @@ Test2	2
 I tried	7
 OK	6
 Easy	2
+XD	4
+null	5
