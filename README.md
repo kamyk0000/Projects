@@ -11,10 +11,13 @@ Główne cele tego repozytorium to dokumentacja projektów w celach osobistych j
 
 Każdy folder w tym repozytorium odpowiada osobnemu projektowi. Znajdziesz tu m.in.:
 
+- **[ATailOfIronAndFlame](./ATailOfIronAndFlame)** – gra RPG/Strategii stworzona przy użyciu silnika Unity i C#.
+- **[GameDesign](./GameDesign)** – prace o tematyce projektowania gier.
 - **[MyTetrisGame](./MyTetrisGame)** – prosta gra przypominająca Tetrisa stworzona w Javie z użyciem Swing.
-- **[ToDoTrayApp](./ToDoTrayApp)** – aplikacja do zarządzania zadaniami (ToDo), działająca w systemowym trayu, napisana w Pythonie z użyciem Tkintera i PyStray.
 - **[PasswordAndFileEncoder](./PasswordAndFileEncoder)** – prosta aplikacja konsolowa do enkrypcji plików i zarządzania hasłami napisana w C++.
 - **[SheetManagerForDnd](./SheetManagerForDnd)** - aplikacja GUI do zarządzania kartami postaci w ramach gier D&D, stworzona w Javie.
+- **[ToDoTrayApp](./ToDoTrayApp)** – aplikacja do zarządzania zadaniami (ToDo), działająca w systemowym trayu, napisana w Pythonie z użyciem Tkintera i PyStray.
+- **[UX/UI](./UX-UI)** - prace o tewmatyce UX/UI aplikacji.
 - **[VeterinaryClinicSystem](./VeterinaryClinicSystem)** – system informatyczny wspomagający działanie kliniki weterynaryjnej napisany w Javie.
 - *(więcej projektów w trakcie dodawania...)*
 
