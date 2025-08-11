@@ -7,12 +7,14 @@ Celem systemu było wymodelowanie rzeczywistych aspektów funkcjonowania kliniki
 Projekt wykorzystuje zmodyfikowane klasy `ObjectPlus` i `ObjectPlusPlus` autorstwa mg. inż. Mariusza Trzaski implementujące podstawę 
 
 ---
+
 [**EN**]
 **VeterinaryClinicSystem** - is an information system project designed to support the operations of a veterinary clinic. 
 The system was developed as a final project for the Modeling and Analysis of Information Systems course during engineering studies.
 
 The goal of the system was to model the real-world aspects of a veterinary clinic's operation using object-oriented programming paradigms and to transform a theoretical system - originally modeled with UML - into an actual object-oriented structure. 
 The project utilizes modified versions of the `ObjectPlus` and `ObjectPlusPlus` classes developed by M.Sc. Eng. Mariusz Trzaska, which provide the foundational implementation.
+
 ---
 
 ### Details: [Documentation](Dokumentacja.pdf)
