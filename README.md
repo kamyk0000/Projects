@@ -1,7 +1,7 @@
 # 🧩 Projekty
 
 Witaj w moim repozytorium z projektami programistycznymi!  
-Zawiera ono zbiór aplikacji stworzonych w różnych technologiach, zarówno w celach edukacyjnych (na potrzebę zaliczeń przedmiotów programu na PJAIT), jak i hobbystycznych.
+Zawiera ono zbiór aplikacji stworzonych w różnych technologiach, zarówno w celach edukacyjnych (na potrzebę zaliczeń przedmiotów programu na PJAIT czy UJ), jak i hobbystycznych.
 
 ## 🎓 Cel repozytorium
 
