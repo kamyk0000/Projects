@@ -1,0 +1,24 @@
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Cache files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.tmp
+*.log
+*.vsconfig
+
+# Backup files
+*_Backup.umap
+*_Backup.uasset
+
+# Mac files
+.DS_Store
