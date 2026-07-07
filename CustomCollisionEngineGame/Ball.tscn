@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://cwral2mtrxrvf"]
+
+[ext_resource type="Script" uid="uid://coaf735entamu" path="res://sphere.gd" id="1"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_pa54t"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gk6bx"]
+albedo_color = Color(1, 0.26666668, 0, 1)
+
+[node name="Sphere" type="Node3D" unique_id=912201228]
+script = ExtResource("1")
+throwStrength = 1.0
+bounciness = 0.5
+angular_velocity = Vector3(0.5, 0.5, 0.1)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=179755334]
+mesh = SubResource("SphereMesh_pa54t")
+surface_material_override/0 = SubResource("StandardMaterial3D_gk6bx")

@@ -1,0 +1,30 @@
+# Import cache (auto-generated)
+.import/
+
+# Exported builds
+export/
+exports/
+bin/
+build/
+
+# Godot editor metadata
+.godot/
+
+# Mono / C# projects (Godot 3.x & 4.x)
+.mono/
+data_*/
+*.csproj
+*.sln
+*.tmp
+*.user
+*.cache
+
+# System / OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
