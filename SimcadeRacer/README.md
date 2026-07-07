@@ -38,6 +38,11 @@ The project was built with a focus on responsive, dynamic, and modular foundatio
 
 ---
 
+
+### Details: [Game Design Overview](GDO.docx)
+
+---
+
 ## 🚀 Download
 
 ### 🔧 Launch
